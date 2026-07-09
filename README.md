@@ -1,2 +1,2 @@
-This open-source repository implements the architecture-centric safety requirements engineering framework proposed in the target paper, integrating STPA (System-Theoretic Process Analysis) hazard analysis and formal contract verification via Kind 2 model checker.
-The core industrial demonstration case is a standard CBTC (Communication-Based Train Control) subway signalling system. This repository delivers end-to-end workflows: STPA safety requirement derivation → contract specification (Lustre/Kind 2) → atomic component formal modelling → contract compositional proof & model checking.
+This repository implements the architecture-centric safety requirements engineering framework proposed in the target paper, integrating STPA (System-Theoretic Process Analysis) hazard analysis and formal contract verification via Kind 2 model checker.
+The core industrial demonstration case is a standard CBTC (Communication-Based Train Control) subway signalling system. 
